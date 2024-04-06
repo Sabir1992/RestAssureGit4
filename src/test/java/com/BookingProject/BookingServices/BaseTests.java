@@ -8,7 +8,7 @@ import io.restassured.specification.RequestSpecification;
 import java.util.Arrays;
 
 public class BaseTests {
-
+// Tahirin commenti
     RequestSpecification spec;
     public BaseTests(){
          spec = new RequestSpecBuilder()
